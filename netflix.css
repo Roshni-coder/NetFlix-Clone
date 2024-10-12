@@ -7,7 +7,7 @@ body{
     width: 100vw;
 }
 main{
-    background-image: url('back2.jpg');
+    background-image: url('./images/back2.jpg');
     height: 80vh;
     background-repeat: no-repeat;
     background-size: max(1400px,100vw);
